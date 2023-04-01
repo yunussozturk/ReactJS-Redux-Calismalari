@@ -1,0 +1,53 @@
+.skor1{
+    width: 320px;
+    border: 2px solid rgb(91, 91, 214);
+    margin: 50px auto 0 auto;
+}
+
+.skor2{
+    font-size: 30px;
+    background-color: blue;
+    padding: 10px 20px;
+    border-bottom: 1px solid black;
+    color: white;
+}
+
+.skor2 > span{
+    float: right;
+    cursor: pointer;
+}
+
+.skor3{
+    font-size: 26px;
+    background-color: rgb(223, 223, 223);
+    padding: 5px 15px;
+    border-bottom: 1px solid black;
+}
+
+.skor3 > span{
+    float: right;
+}
+
+.skor4{
+    font-size: 26px;
+    background-color: rgb(255, 255, 255);
+    padding: 5px 15px;
+    border-bottom: 1px solid black;
+}
+
+.skor4 > span{
+    color: green;
+    float: right;
+}
+
+.skor5{
+    font-size: 26px;
+    background-color: rgb(255, 255, 255);
+    padding: 5px 15px;
+    
+}
+
+.skor5 > span{
+    color: red;
+    float: right;
+}

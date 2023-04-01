@@ -1,0 +1,38 @@
+.hazirkelimeler2{
+    width: 60%;
+    height: 110px;
+    background-color: white;
+    font-size: large;
+    padding: 8px;
+    margin: 40px auto 0 auto;
+    border: 1px solid blue;
+    border-radius: 5px;
+    font-size: 30px;
+    overflow: hidden;
+    display: flex;
+    flex-wrap: wrap;
+    overflow-y: scroll
+}
+
+
+.hazirkelimeler2::-webkit-scrollbar {
+    display: none;
+}
+
+.hazirkelimeler3{
+    margin-right: 10px;
+    margin-bottom: 5px;
+  
+}
+
+.yesil{
+    color: green;
+}
+
+.kirmizi{
+    color: red;
+}
+
+.gri{
+    background-color: rgb(207, 202, 202);
+}
