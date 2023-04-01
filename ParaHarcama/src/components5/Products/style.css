@@ -1,0 +1,92 @@
+.ortala{
+    text-align: center;
+    margin-left: 60px;
+}
+
+.product{
+    background-color: #fff;
+    border: 2px solid #ddd;
+    margin: 30px 20px 30px 20px;
+    width: 300px;
+    height: 420px;
+    float: left;
+}
+
+.title{
+    background-color: orange;
+    border: 1px solid orange;
+    height: 50px;
+    width: 100%;
+    font-size: 18px;
+    padding-top: 12px;
+    margin-bottom: 10px;
+}
+
+.resim{
+    height: 270px;
+    width: 200px;
+    margin-bottom: 5px;
+  }
+
+.priceSellBuy{
+    background-color: rgb(248, 234, 237);
+    width: 100%;
+    border-bottom: 1px solid #ddd;
+}
+
+.price{
+    color: blue;
+    font-weight: 700;
+    padding: 8px 0;
+    font-size: large;
+}
+
+.sellBuy{
+    margin: 3px 0;
+}
+
+.sat1{
+    background-color: red;
+    color: #fff;
+    border: 1px solid red;
+    border-radius: 5px;
+    margin: 5px 3px 5px 0;
+    padding: 4px 10px;
+}
+
+.sat2{
+    background-color: rgb(94, 94, 94);
+    color: #fff;
+    border: 1px solid rgb(94, 94, 94);
+    border-radius: 5px;
+    margin: 5px 3px 5px 0;
+    padding: 4px 10px;
+}
+
+.sat1:hover{
+    background-color: rgb(151, 2, 2);
+    cursor: pointer;
+}
+
+.al1{
+    background-color: green;
+    color: #fff;
+    border: 1px solid green;
+    border-radius: 5px;
+    margin-left: 3px;
+    padding:  4px 10px;
+}
+
+.al1:hover{
+    background-color: rgb(1, 54, 1); 
+    cursor: pointer;
+}
+
+.al2{
+    background-color:  rgb(94, 94, 94);
+    color: #fff;
+    border: 1px solid  rgb(94, 94, 94);
+    border-radius: 5px;
+    margin-left: 3px;
+    padding:  4px 10px;
+}
