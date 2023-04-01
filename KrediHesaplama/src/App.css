@@ -1,0 +1,217 @@
+body{
+  background-color: red;
+}
+
+.header1{
+  margin: 10% 20% 0 20%;
+  padding: 10px 0 10px 20px;
+  font-size: 30px;
+  font-weight: 600;
+  color: orangered;
+  background-color: antiquewhite;
+  border: 2px solid grey;
+}
+
+.header2{
+  margin-left: 230px;
+}
+
+.header3{
+  font-size: 20px;
+  padding: 6px;
+  width: 310px;
+}
+
+.kredi{
+  margin: 0 20% 0 20%;
+  display: flex;
+  border: 2px solid grey;
+  border-top: none;
+  padding: 10px 20px 10px 20px;
+  background-color: rgb(207, 203, 203);  
+}
+
+.kredi1{  
+  width: 50%; 
+}
+
+.tutar{
+  font-weight: 600;
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+.tutarTl{
+  display: flex;
+}
+
+.tutarInput{
+  height: 30px;
+  width: 305px;
+  font-size: 26px;
+  margin-bottom: 10px;
+  text-align: right;
+  padding-right: 35px;
+}
+
+input::-webkit-input-placeholder {
+  color: rgb(212, 212, 212);
+  font-size: 23px;
+}
+
+.tl{
+  position: absolute;
+  font-size: 26px;
+  margin-left: 315px;
+  margin-top: -2px;
+}
+
+.sigortasiz{
+  margin-right: 10px;
+}
+
+.vade{
+  display: flex;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.vade1{
+  width: 15%;
+}
+
+.vadeYazi{
+  padding-left: 30px;
+}
+
+.vadeAzalt{
+  padding-left: 40px;
+}
+
+.vade2{
+  width: 65%;   
+}
+
+.daire{
+  position: absolute;
+  border: 1px solid orange;
+  width: 20px;
+  height: 20px;
+  background-color: orange;
+  color: orange;
+  border-radius: 100%;
+  font-size: 1px;
+  margin-top: 22px;
+  
+  z-index: 20;
+}
+
+.cizgi{
+  position: absolute;
+  z-index: 5;
+  left: 370px;
+  top: 383px;
+  height: 5px;
+  width: 220px;
+  background-color: black;
+  border: 1px solid grey;
+  border-radius: 10px;
+}
+
+.vade3{
+  width: 20%; 
+}
+
+.vadeArttir{
+  margin-left: -5px;
+}
+
+.kredi2{
+  width: 50%;
+  text-align: center;
+  padding-top: 40px;
+  font-weight: 400;
+  color: rgb(75, 73, 73);
+}
+
+.aylikTutar{
+  font-size: 50px;
+  font-weight: 700;
+  color: black;
+}
+
+.detay{
+  color: black;
+  margin-top: 10px;
+}
+
+.doviz1{
+  margin: 0 20% 0 20%;
+  padding: 10px 0 10px 20px;
+  font-size: 15px;
+  font-weight: 500;
+  color: black;
+  background-color: antiquewhite;
+  border: 2px solid grey;
+  border-top: none;
+  display: flex;
+}
+
+.yatirimci{
+  padding: 10px;
+  margin-right: 80px;  
+}
+
+.dolar{
+  margin-right: 40px;
+}
+
+.euro{
+  margin-right: 40px;  
+}
+
+.alis{
+  margin-left: 16px;
+}
+
+.satis{
+  
+  margin-left: 23px;
+}
+
+.alisFiyat{
+  
+  margin-left: 19px;
+}
+
+.satisFiyat{
+  
+  margin-left: 13px;
+}
+
+.tablolar{
+  position: absolute;
+  margin-left: 630px;
+  width: 500px;
+  color: black;
+  margin-top: -90px;
+}
+
+table{
+  border: 1px solid black;  
+}
+
+td{
+  width: 120px;
+  height: 30px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.tablo1{
+  background-color: rgb(197, 190, 190);
+}
+
+.tablo2{
+  background-color: white;
+}
