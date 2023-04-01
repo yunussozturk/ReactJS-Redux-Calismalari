@@ -1,0 +1,73 @@
+.notlar{
+    text-align: left;
+    padding: 50px 0 0 50px;
+    background-color: rgb(219, 214, 214);
+}
+
+.buton12{
+    height: 40px;
+    width: 120px;
+    background-color: green;
+    color: white;
+    font-size: 24px;
+    border-radius: 10px;
+}
+
+.notBaslik{
+    font-size: 32px;
+    font-weight: 600;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.note1{
+    width: 1000px;
+    background-color: pink;
+    border: 3px solid black;
+}
+
+.note2{
+    width: 1000px;
+    background-color: rgb(245, 67, 245);
+    border: 3px solid black;
+}
+
+.note3{
+    width: 1000px;
+    background-color: yellow;
+    border: 3px solid black;
+}
+
+.note4{
+    width: 1000px;
+    background-color: rgb(115, 115, 248);
+    border: 3px solid black;
+}
+
+.note5{
+    width: 1000px;
+    background-color: rgb(27, 231, 27);
+    border: 3px solid black;
+}
+
+ul{
+    margin-top: 20px;
+    list-style-type: circle;
+}
+
+li{
+    margin-left: 30px;
+    font-size: 24px;     
+ 
+}
+
+.destroy{
+    margin-right: 10px;
+    float: right;
+    color: black;
+    font-weight: 900;
+}
+
+.note{
+    width: 930px;
+}

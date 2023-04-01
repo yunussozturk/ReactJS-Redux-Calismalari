@@ -1,0 +1,96 @@
+.form{
+    border: 2px solid rgb(172, 172, 245);
+    border-radius: 10px;
+    margin: 0 25% 0 25%;
+}
+
+.pembe{
+    border: 2px solid pink;
+    border-radius: 10px;
+    margin: 0 25% 0 25%;
+}
+
+.mor{
+    border: 2px solid purple;
+    border-radius: 10px;
+    margin: 0 25% 0 25%;
+}
+
+.sari{
+    border: 2px solid yellow;
+    border-radius: 10px;
+    margin: 0 25% 0 25%;
+}
+
+.mavi{
+    border: 2px solid blue;
+    border-radius: 10px;
+    margin: 0 25% 0 25%;
+}
+
+.yesil{
+    border: 2px solid green;
+    border-radius: 10px;
+    margin: 0 25% 0 25%;
+}
+  
+.textarea{
+     background-color: white;
+}
+
+.formfooter{
+    background-color: white;
+}
+
+.renkliButonlar{
+    padding: 5px 0 0 10px;
+    display: flex;
+}
+
+.buton1{
+    height: 40px;
+    width: 40px;
+    background-color: pink;
+    border-radius: 100%;
+    margin-right: 5px;
+}
+  
+.buton2{
+    height: 40px;
+    width: 40px;
+    background-color: purple;
+    border-radius: 100%;
+    margin-right: 5px;  
+}
+  
+.buton3{
+    height: 40px;
+    width: 40px;
+    background-color: yellow;
+    border-radius: 100%;
+    margin-right: 5px;
+}
+  
+.buton4{
+    height: 40px;
+    width: 40px;
+    background-color: blue;
+    border-radius: 100%;
+    margin-right: 5px;
+}
+  
+.buton5{
+    height: 40px;
+    width: 40px;
+    background-color: green;
+    border-radius: 100%;
+    margin-right: 5px; 
+}
+
+.addButon{
+    margin-left: 330px;
+}
+
+
+
+  

@@ -1,0 +1,88 @@
+.noteButonlar{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.buton7{
+    background-color: pink;
+    border: 2px solid rgb(250, 165, 179);
+    height: 50px;
+    width: 220px;
+    font-size: large;
+    margin-right: 20px;
+    font-weight: 600;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.buton7:hover{
+    background-color: rgb(247, 136, 155);
+    cursor: pointer;
+}
+
+.buton8{
+    background-color: rgb(245, 67, 245);
+    border: 2px solid rgb(151, 10, 151);
+    height: 50px;
+    width: 220px;
+    font-size: large;
+    margin-right: 20px;
+    font-weight: 600;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.buton8:hover{
+    background-color: rgb(153, 22, 153);
+    cursor: pointer;
+}
+
+.buton9{
+    background-color: yellow;   
+    border: 2px solid rgb(196, 196, 1);
+    height: 50px;
+    width: 220px;
+    font-size: large;
+    font-weight: 600;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.buton9:hover{
+    background-color: rgb(177, 177, 0);
+    cursor: pointer;
+}
+
+.buton10{
+    background-color: rgb(115, 115, 248);
+    border: 2px solid rgb(20, 20, 175);
+    height: 50px;
+    width: 220px;
+    font-size: large;
+    margin-right: 20px;
+    font-weight: 600;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.buton10:hover{
+    background-color: rgb(25, 25, 218);
+    cursor: pointer;
+}
+
+.buton11{
+    background-color: rgb(27, 231, 27);
+    border: 2px solid rgb(1, 97, 1);
+    height: 50px;
+    width: 220px;
+    font-size: large;
+    font-weight: 600;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.buton11:hover{
+    background-color: rgb(23, 139, 23);
+    cursor: pointer;
+}
+
